@@ -1,0 +1,8 @@
+// Variable Overrides
+$theme-colors: (
+        "primary": #d93033
+);
+
+// Bootstrap Sass Imports
+@import "~bootstrap/scss/bootstrap";
+@import "~@fortawesome/fontawesome-free/css/all.css";
