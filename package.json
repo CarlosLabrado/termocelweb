@@ -19,6 +19,8 @@
     "postcss-loader": "^3.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^4.3.1",
+    "react-tooltip": "^3.9.2",
     "react-scripts": "3.0.1",
     "recompose": "^0.30.0",
     "sass-loader": "^7.1.0",
